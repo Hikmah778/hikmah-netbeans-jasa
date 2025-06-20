@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package raudatul_hikmah;
-
+import frame.FrameApp;
 /**
  *
  * @author User
